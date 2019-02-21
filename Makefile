@@ -6,7 +6,7 @@
 #    By: nhennigh <marvin@42.fr>                    +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2019/02/12 11:17:22 by nhennigh          #+#    #+#              #
-#    Updated: 2019/02/15 20:35:51 by nhennigh         ###   ########.fr        #
+#    Updated: 2019/02/21 09:02:50 by nhennigh         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
@@ -27,7 +27,7 @@ ft_isascii.c ft_lstiter.c ft_memset.c ft_strchr.c \
 ft_strlcat.c ft_strrchr.c ft_isdigit.c ft_lstmap.c \
 ft_putchar.c ft_strclr.c ft_strlen.c ft_strsplit.c \
 ft_islower.c ft_lstnew.c ft_putchar_fd.c ft_strcmp.c \
-ft_strmap.c ft_strstr.c
+ft_strmap.c ft_strstr.c ft_strndup.c
 
 OBJ = $(SRC:.c=.o)
 
